@@ -1,7 +1,7 @@
 ---
 name: nabawanda olivia
 country: Uganda
-gh: "nabawanda olivia"
+gh: "nabawanda.md"
 ---
 
 Short professional blurb.
